@@ -51,6 +51,7 @@ export class BaihatService {
       luotMua: bh.luotMua,
       gia: bh.gia,
       maCS: casi.hoTen,
+      macs: bh.maCS,
     };
   }
 
